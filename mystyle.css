@@ -1,0 +1,30 @@
+body{ 
+	background-color: moccasin;
+	border:10pt double peru;
+}
+H1,H2,H3,H4,H5,H6 {
+	font-size: 30px;
+	background: BurlyWood;
+	border:3pt double wheat;
+	text-align: center;
+	color: peru;
+}
+pre {
+	line-height:8pt;
+	text-align: center;
+}
+
+p{
+
+	text-align: center;
+	color: peru;
+}
+img {
+    border:10pt double peru;
+    text-align: center;
+}
+div.fig{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
