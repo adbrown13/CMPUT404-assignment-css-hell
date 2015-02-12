@@ -1,6 +1,8 @@
 Assignment: CSS Hell
 ====================
 
+I removed all style tags for the 3 html pages
+
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
