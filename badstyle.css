@@ -1,0 +1,116 @@
+.header{
+   height: 150pt;
+    background: -moz-linear-gradient(blue,green,green, blue); 
+    background: linear-gradient(blue,green,green, blue); 
+    
+}
+H2.firstname{
+	padding-top:30px;
+	line-height:10px;
+	font-size: 40px;
+	text-indent: 35%;
+	color:BlanchedAlmond;
+}
+H2.middlename{
+
+	font-size: 40px;
+	line-height:10px;
+	text-indent: 40%;
+	color:BlanchedAlmond;
+}
+H2.lastname{
+	font-size: 40px;
+	line-height:10px;
+	text-indent: 45%;
+	color:BlanchedAlmond;
+}
+a:link{
+color:white;
+text-decoration: none;
+}
+a:visited{
+color:white;
+text-decoration: none;
+}
+a:active {
+    color: blue;
+text-decoration: none;
+}
+a:hover {
+    color: blue;
+}
+ul.menu1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+} 
+li.menu2 {
+    display: inline;
+	font-family:"Courier New", Courier, monospace;
+	font-style:normal;
+	padding:10pt;
+background: -moz-linear-gradient(yellow, red); 
+    background: linear-gradient(yellow, red); 
+}
+
+.menu{
+	text-align: center;
+   height: 30px;
+    padding:10pt;
+    color:white;
+	font-size: 20px;
+
+}
+.sidebar{
+	background-color:yellow;
+   width: 25%;
+	padding:10pt;
+    float:right;
+}
+.whoyouare{
+	  border-style: dotted;
+    border-color: red;
+	 width: 60%;
+	padding:10pt;
+    float:left;
+}
+.history{
+
+width: 60%;
+	padding:10pt;
+    float:left;
+}
+.offer{
+ border-style: dotted;
+    border-color: red;
+width: 60%;
+padding:10pt;
+    float:left;
+}
+
+body{  
+	margin: 0px;
+	padding: 10px;
+	margin-top:-35px;
+}
+H1,H3,H4,H5,H6 {
+	font-size: 30px;
+	text-align: left;
+	line-height:10px;
+
+}
+
+img {
+    height: 150pt;
+   float:left;
+    text-align: center;
+	padding:10pt;
+}
+	
+h1.firstname{
+	font-size: 30px;
+	text-align: center;
+	color: peru;
+}
+
